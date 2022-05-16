@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/layout/activity_absolute_layout_lab.xml" value="0.18541666666666667" />
         <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/layout/activity_constraint_layout_lab.xml" value="0.18489583333333334" />
         <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/layout/activity_ejercicio1.xml" value="0.18541666666666667" />
-        <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/layout/activity_ejercicio2.xml" value="0.22" />
+        <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/layout/activity_ejercicio2.xml" value="0.33" />
         <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/layout/activity_ejercicio3.xml" value="0.18541666666666667" />
+        <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/layout/activity_ejercicio4.xml" value="0.33" />
+        <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/layout/activity_ejercicio5.xml" value="0.30833333333333335" />
         <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/layout/activity_frame_layout_lab.xml" value="0.18541666666666667" />
         <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/layout/activity_linear_layout.xml" value="0.18489583333333334" />
         <entry key="..\:/MARCO R/LAB 1/project/app/src/main/res/layout/activity_main.xml" value="0.1" />

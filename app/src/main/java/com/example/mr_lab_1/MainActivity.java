@@ -9,7 +9,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button btll, bttl, btrl, btcl, btfl, btal, bte1, bte2, bte3;
+    private Button btll, bttl, btrl, btcl, btfl, btal, bte1, bte2, bte3, bte4, bte5;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -83,6 +83,22 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, EJERCICIO3.class);
+                startActivity(intent);
+            }
+        });
+        bte4 = (Button) findViewById(R.id.bte4);
+        bte4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, EJERCICIO4.class);
+                startActivity(intent);
+            }
+        });
+        bte5 = (Button) findViewById(R.id.bte5);
+        bte5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, EJERCICIO5.class);
                 startActivity(intent);
             }
         });
